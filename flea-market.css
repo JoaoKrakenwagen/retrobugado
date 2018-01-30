@@ -2,16 +2,15 @@
 body {
   background-image: url('img/background/record-player.jpg');
   height: 1200px;
-
   background-attachment: fixed;
 }
 /* bloco 1 flea market.... */
 #bloco-1 {
-  min-height: 500px;
-  padding-top: 60px;
-  padding-bottom: 34px;
-  margin-top: 480px;
-  margin-bottom: 350px;
+  min-height: 30vh;
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+  margin-top: 72vh;
+  margin-bottom: 30vh;
 }
 #titulo {
   margin-left: 2.4em;

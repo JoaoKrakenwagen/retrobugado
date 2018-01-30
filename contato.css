@@ -1,0 +1,12 @@
+body {
+  background-image: url('img/background/ampl.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+#footer_contato {
+    margin-top: 14em;
+    margin-bottom: 0;
+}
